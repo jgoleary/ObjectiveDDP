@@ -2,13 +2,13 @@ PODS:
   - SocketRocket (0.3.1-beta2)
 
 DEPENDENCIES:
-  - SocketRocket (from `git@github.com:square/SocketRocket.git`)
+  - SocketRocket (from `https://github.com/square/SocketRocket.git`)
 
 EXTERNAL SOURCES:
   SocketRocket:
-    :git: git@github.com:square/SocketRocket.git
+    :git: https://github.com/square/SocketRocket.git
 
 SPEC CHECKSUMS:
   SocketRocket: 9cbe08469513356cddc0afcab1ff160bd190296a
 
-COCOAPODS: 0.19.1
+COCOAPODS: 0.28.0
